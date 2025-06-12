@@ -13,3 +13,14 @@ A simple real-time chat app built with:
 1. Clone this repo
 2. Run `node server.js` for backend
 3. Run `npm start` for frontend
+
+## Tech Stack
+- **Frontend**: React.js
+- **Backend**: Node.js with WebSocket
+
+## How to Run Locally
+
+1. Open Terminal or CMD  
+```bash
+node server.js
+npm start
